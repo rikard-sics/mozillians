@@ -18,3 +18,5 @@ tasks:
 
   install-local:
     cmd: docker-compose build
+
+TEST 1
